@@ -24,6 +24,8 @@ https://github.com/user-attachments/assets/20ad4426-7156-4b38-ac1b-3efba39a9d2f
 <img width="1255" height="451" alt="image" src="https://github.com/user-attachments/assets/228fac41-a62a-42d8-a2f9-96577c242607" />
 Note: I changed the background color for Teleport for demonstration
 
+- You can Make the UI as pretty as you like
+
 - If everything is correct inside the property tab change set the frame visible to false
   <img width="294" height="760" alt="image" src="https://github.com/user-attachments/assets/261ee718-96e9-4f51-9ca8-dfe2d293d45c" />
 
